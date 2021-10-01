@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Meu repositório criado para o Desafio de Projeto como parte do *bootcamp* da Eduzz.
+Meu repositório criado para o Desafio de Projeto como parte do Bootcamp Eduzz Fullstack Developer.
 
 
 ## Objetivos
